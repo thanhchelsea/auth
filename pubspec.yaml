@@ -41,7 +41,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/icons/
-    - assets/images/
+    # - assets/images/
 
 flutter_gen:
   output: lib/generated/
